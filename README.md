@@ -67,5 +67,7 @@ Enhance UI/UX of the web app
 
 
 👨‍💻 Author
+
 Alex Shaju
+
 B.Tech Artificial Intelligence & Data Science
