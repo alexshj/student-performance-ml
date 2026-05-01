@@ -57,14 +57,15 @@ student-performance-ml/
 
 ## ▶️ How to Run Locally
 
-```bash
+
 pip install -r requirements.txt
 python -m streamlit run app/app.py
 📌 Future Improvements
 Add more features (sleep, study environment, etc.)
 Improve model accuracy
 Enhance UI/UX of the web app
-👨‍💻 Author
 
+
+👨‍💻 Author
 Alex Shaju
 B.Tech Artificial Intelligence & Data Science
