@@ -1,7 +1,7 @@
 # 🎓 Student Performance Predictor
 
 ## 🚀 Live Demo
-(Will be added after deployment)
+[Click here to try the app](https://student-performance-ml-alxshaju.streamlit.app/)
 
 ---
 
