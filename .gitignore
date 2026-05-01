@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+sentiment_env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
